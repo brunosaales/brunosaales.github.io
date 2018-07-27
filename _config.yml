@@ -1,2 +1,13 @@
-theme: jekyll-theme-cayman
+# Extensions
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
+theme: edinburgh
 title: Bruno Alves UX Design
+
+# Header
+menu:
+  About: /about
+  Contact: /contact
+  Instagram: https://www.instagram.com
+  LinkedIn: https://www.linkedin.com
+  Facebook: https://www.facebook.com
